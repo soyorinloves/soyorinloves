@@ -1,4 +1,8 @@
-## Hi there 👋
+### 👋 About Me
+- 🧑‍💻 Learning **C# / Python / C++**
+- 🧠 INTJ, focused on clean & efficient code
+- 📚 Occasional reader
+- 📈 Growing one commit at a time
 
 ![头像](image/04AC2EDF224FB93AD2CAD4800A6333BEF3C.png)
 <!--
