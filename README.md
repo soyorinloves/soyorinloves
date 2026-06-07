@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![头像](image/04AC2EDF224FB93AD2CAD4800A6333BEF3C.png)
 <!--
 **soyorinloves/soyorinloves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
